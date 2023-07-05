@@ -9,7 +9,7 @@ Feather is an Obsidian Theme greatly inspired by [obsidian-things](https://githu
 
 - Dark And Light Themes
 - Things 2 like Checkboxes
-- Cool Code Boxes With Syntax Highlighting
+- Cool Code Blocks With Syntax Highlighting
 - With the Style Settings community plugin, you can customize the colors
 of bold, italic, highlighters, and block-quotes
 
