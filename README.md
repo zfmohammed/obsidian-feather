@@ -27,6 +27,10 @@ of bold, italic, highlighters, and block-quotes
 4. Search for `Feather` in the Filter text input
 5. Click `Use` and then you're done! 🎉
 
+# Feedback 📖
+I will do my best to answer any issues and/or suggestions you may
+have. Please submit an issue or raise a PR.
+
 # Credits 🎊
 
 I would like to thank [colineckert](https://github.com/colineckert) and his theme [obsidian-things](https://github.com/colineckert/obsidian-things) for his things 2 like checkboxes and base for this theme.Also, a huge thanks to [kepano](https://github.com/kepano) and his [Minimal Theme](https://github.com/kepano/obsidian-minimal) for some inspiration. 🎉🎉🎉
