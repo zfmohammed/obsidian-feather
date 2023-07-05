@@ -35,6 +35,7 @@ body {
     --pink: #ff22b1;
     --slate: #1d1c39;
     --white: #f8fafc;
+    --pink-light: #ff82b2;
 
     --base-h: 212; /* Base hue */
     --base-s: 15%; /* Base saturation */
@@ -59,8 +60,8 @@ body {
 
     /*Headings*/
 
-    --strong-color: var(--text-normal);
-    --em-color: var(--text-normal);
+    --strong-color: var(--pink-light);
+    --em-color: var(--teal);
     --quotes-color: var(--text-normal);
 
     --h1-color: var(--text-normal);
@@ -691,9 +692,9 @@ input[type="range"] {
 
 /* @settings
 
-    name: Feather
-    id: feather-style
-    settings:
+name: Feather
+id: feather-style
+settings:
         - 
             id: headings
             title: Headings
@@ -916,13 +917,13 @@ input[type="range"] {
             title: Bold font color
             type: variable-color
             format: hex
-            default: '#dadada' 
+            default: '#ff82b2' 
         - 
             id: em-color
             title: Italics font color
             type: variable-color
             format: hex
-            default: '#dadada' 
+            default: '#1fcbdc' 
         - 
             id: quotes-color
             title: Blockquotes font color
