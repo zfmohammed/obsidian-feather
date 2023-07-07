@@ -3,7 +3,7 @@
 
 Feather is an Obsidian Theme greatly inspired by [obsidian-things](https://github.com/colineckert/obsidian-things). 
 
-> This theme was built using code from [colineckert's](https://github.com/colineckert) Obsidian Things Thme. Please support colineckert's work!
+> This theme was built using code from [colineckert's](https://github.com/colineckert) Obsidian Things Theme. Please support colineckert's work!
 
 # About Feather 🎁
 
