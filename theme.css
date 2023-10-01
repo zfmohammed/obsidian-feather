@@ -720,8 +720,8 @@ button{
     align-content: center;
     text-align: center;
     border: 1px solid var(--dd) ;
-    background-color: var(--d1) !important;
-    color: #ffffff;
+    background-color: var(--l1) !important;
+    color: var(--d1);
 
 }
 .dropdown{
