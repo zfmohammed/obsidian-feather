@@ -15,8 +15,6 @@ of bold, italic, highlighters, and block-quotes
 
 # Themes
 ![Dark Theme](assets/Dark_Theme.png)
-----
-![Light Theme](assets/Light_Theme.png)
 
 
 # Installation 🧑‍💻
