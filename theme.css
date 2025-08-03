@@ -144,6 +144,18 @@ body {
   --prompt-border-color: var(--slate-blue);
 }
 
+body > div.modal-container.mod-confirmation.mod-dim > div.modal > div.modal-content > p
+{
+  margin: 0px;
+  font-size: x-small;
+}
+body > div.modal-container.mod-confirmation.mod-dim > div.modal > div.modal-content > p:nth-child(1)
+{
+  margin-bottom: 1em;
+  font-size: medium;
+
+}
+
 .task-list-item > p {
   display: flex;
   flex-direction: row;
