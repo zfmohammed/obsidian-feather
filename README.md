@@ -33,4 +33,12 @@ have. Please submit an issue or raise a PR.
 
 I would like to thank [colineckert](https://github.com/colineckert) and his theme [obsidian-things](https://github.com/colineckert/obsidian-things) for his things 2 like checkboxes and base for this theme.Also, a huge thanks to [kepano](https://github.com/kepano) and his [Minimal Theme](https://github.com/kepano/obsidian-minimal) for some inspiration. 🎉🎉🎉
 
+# Support Me 🫶
+<details>
+<summary>Help Me Through Cryptocurrency</summary>
+## Solana 
+'''
+HcJZna3AGBUPWgnCb6xHvQZ9hC7VB9uoZcg9ticwih4U
+'''
+</details>
 
