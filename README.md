@@ -1,3 +1,32 @@
+## Support Me !! 🫶
+Please support **@MFdev** on Ko-fi 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N41MVC7U)
+
+<details>
+    <summary>        Help Me Through Cryptocurrency 💵</summary>
+
+#### Solana
+``
+HcJZna3AGBUPWgnCb6xHvQZ9hC7VB9uoZcg9ticwih4U
+``
+
+#### Ethereum
+``
+0x8F1609c1F7C2688E542FC1e81A52c8D9F36C4920
+``
+
+#### Bitcoin
+``
+bc1p39hs4xzjpjx62k5y305x9d2ylagehxs0lwpj90uz8cdz6pf7dg7s3xrjky
+``
+
+#### Sui
+``
+0x5338159aa2831413b3355d498ce464f242659169b8f2a24ab1ebc8055690ac89
+``
+</details>
+
 # Introducing Feather ✨
 ![ScreenShot](assets/Screenshot.png)
 
@@ -34,28 +63,6 @@ have. Please submit an issue or raise a PR.
 I would like to thank [colineckert](https://github.com/colineckert) and his theme [obsidian-things](https://github.com/colineckert/obsidian-things) for his things 2 like checkboxes and base for this theme.Also, a huge thanks to [kepano](https://github.com/kepano) and his [Minimal Theme](https://github.com/kepano/obsidian-minimal) for some inspiration. 🎉🎉🎉
 
 # Support Me 🫶
-<details>
-    <summary> Help Me Through Cryptocurrency 💵</summary>
 
-#### Solana
-``
-HcJZna3AGBUPWgnCb6xHvQZ9hC7VB9uoZcg9ticwih4U
-``
-
-#### Ethereum
-``
-0x8F1609c1F7C2688E542FC1e81A52c8D9F36C4920
-``
-
-#### Bitcoin
-``
-bc1p39hs4xzjpjx62k5y305x9d2ylagehxs0lwpj90uz8cdz6pf7dg7s3xrjky
-``
-
-#### Sui
-``
-0x5338159aa2831413b3355d498ce464f242659169b8f2a24ab1ebc8055690ac89
-``
-</details>
 
 
